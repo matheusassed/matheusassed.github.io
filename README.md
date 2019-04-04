@@ -1,3 +1,2 @@
 # matheusassed.github.io
-Minha página pessoal, onde vou mostrar o que tenho feito na/pela web.
-Métodos de contato, e tudo mais.
+Meu site profissional, onde mostro o meu conhecimento (A.K.A.: meu currículo online).
