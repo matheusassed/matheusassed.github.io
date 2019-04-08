@@ -1,3 +1,12 @@
+/*ANIMAÇÃO*/
+.header-sub-title {
+  color: #fff;
+	padding: 0.1em;
+	height: 10px;
+	margin-bottom: 60px;
+}
+/*ANIMAÇÃO*/
+
 /* Minimal CSS Reset */
 
 html {
@@ -78,7 +87,7 @@ main > .intro {
 
 main > .tagline {
 	font-size: 1.5rem;
-	margin: 1.5rem 0;
+	margin: 1.5rem auto;
 	font-weight: 100;
 }
 
@@ -104,7 +113,8 @@ main {
 
 .icons-social a {
 	color: #FAFAFA;
-	font-size: 2em;
+	font-size: 1.5em;
+	margin-top: 30px;
 }
 
 .icons-social a svg path{
@@ -120,4 +130,23 @@ img.skill{
 
 .listed-skill{
 	margin-top: 20px;
+}
+
+h1.intro {
+	margin-top: 60px;
+}
+
+.game-engines{
+	margin-bottom: 150px;
+}
+
+@media (max-width: 900px){
+	img.skill{
+		max-width: 70px;
+	}
+}
+@media (max-width: 768px){
+	img.skill{
+		max-width: 100px;
+	}
 }
