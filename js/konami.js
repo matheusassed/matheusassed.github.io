@@ -39,6 +39,6 @@ document.addEventListener('keydown', function(e) {
 
 // XABLAU
 function activateCheats() {
-  document.body.style.backgroundColor = "blue";
+  document.main.style.backgroundColor = "blue";
   alert('Bill');
 }
