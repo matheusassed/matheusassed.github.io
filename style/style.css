@@ -18,7 +18,7 @@ svg {
   display: none;
 }
 
-symbol svg {
+svg.icon {
   display: block;
 }
 
