@@ -14,12 +14,8 @@ body {
   margin: 0;
 }
 
-svg {
+.hidden_svg {
   display: none;
-}
-
-svg.icon {
-  display: block;
 }
 
 a, a:hover {
