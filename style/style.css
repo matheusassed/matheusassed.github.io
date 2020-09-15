@@ -18,9 +18,10 @@ body {
   display: none;
 }
 
-a, a:hover {
+a, a:hover, a:visited {
   text-decoration: none;
   cursor: pointer;
+  color: #FC0055;
 }
 
 .icon {
@@ -174,7 +175,7 @@ a, a:hover {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: #fff !important;
   background: #405de6;
   box-shadow: 0px 7px 30px rgba(43, 98, 169, 0.5);
   position: relative;
@@ -249,12 +250,12 @@ a, a:hover {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  max-width: 80%;
+  max-width: 90%;
 }
 .profile-card .skills ul li {
   border: 1px solid #57ABA8;
   border-radius: 4px;
-  font-size: 12px;
+  font-size: 14px;
   margin: 10px;
   padding: 7px;
 }
