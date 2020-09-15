@@ -8,9 +8,14 @@ html {
   box-sizing: border-box;
 }
 
+svg{
+  display: none;
+}
+
 body {
   font-family: 'Quicksand', sans-serif;
   color: #324e63;
+  margin: 0;
 }
 
 a, a:hover {
